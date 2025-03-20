@@ -1,0 +1,61 @@
+{
+	"id": 1,
+	"group": {
+		"name": "Start Servers",
+		"value": "Start Servers"
+	},
+	"name": "OP-49",
+	"cpu": {
+		"name": "Intel Atom C2350",
+		"value": "Intel Atom C2350",
+		"type": "Intel"
+	},
+	"cpu_core": {
+		"name": "2",
+		"value": "2"
+	},
+	"cpu_type": "ss",
+	"ram": {
+		"name": "4 GB DDR3",
+		"value": "4"
+	},
+	"disk": {
+		"name": "1 TB (HDD SATA)",
+		"name_for_filter": {
+			"amount": 1,
+			"unit": "TB"
+		},
+		"value": 1000
+	},
+	"disk_type": {
+		"name": "HDD SATA",
+		"value": "HDD SATA"
+	},
+	"bandwidth": {
+		"name": "Unmetered @ 1 Gbps",
+		"value": "Unmetered @ 1 Gbps"
+	},
+	"bandwidth_limit": {
+		"name": "0",
+		"unit": "GB",
+		"value": "Unmetered"
+	},
+	"bandwidth_speed": {
+		"name": "1",
+		"unit": "Gbps",
+		"value": "1 Gbps"
+	},
+	"location": {
+		"name": "France",
+		"city": "Paris",
+		"value": "FR",
+		"continents": "Europe"
+	},
+	"region": "",
+	"pricing": {
+		"name": "8.99",
+		"value": "8.99",
+		"sign_before": "$",
+		"sign_after": ""
+	}
+}
